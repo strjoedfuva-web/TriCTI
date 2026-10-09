@@ -1,4 +1,4 @@
-# TriCTI
+.# TriCTI
 
 ## Dataset
 - test_ori.json 
